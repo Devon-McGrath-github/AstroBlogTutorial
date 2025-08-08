@@ -1,4 +1,8 @@
-# Astro Starter Kit: Minimal
+# Astro Tutorial using Starter Kit: Minimal
+
+View the resulting blog at [astrotutorini.netlify.app](https://astrotutorini.netlify.app)
+
+or try it yourself: [Astro Blog Tutorial](https://docs.astro.build/en/tutorial/0-introduction/)
 
 ```sh
 pnpm create astro@latest -- --template minimal
@@ -29,9 +33,9 @@ Any static assets, like images, can be placed in the `public/` directory.
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `pnpm install`         | Installs dependencies                            |
 | `pnpm dev`             | Starts local dev server at `localhost:4321`      |
 | `pnpm build`           | Build your production site to `./dist/`          |
 | `pnpm preview`         | Preview your build locally, before deploying     |
